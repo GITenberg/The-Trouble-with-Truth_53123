@@ -1,0 +1,30 @@
+_repo: The-Trouble-with-Truth_53123
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Lutjens
+    gutenberg_agent_id: '47216'
+    url: http://www.gutenberg.org/2009/agents/47216
+creator:
+  author:
+    agent_name: Grow, Julian F.
+    gutenberg_agent_id: '47227'
+    url: http://www.gutenberg.org/2009/agents/47227
+description: ''
+gutenberg_issued: '2016-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53123'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Christmas stories'
+- !lcsh 'Journalism -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Trouble with Truth
+url: http://www.gutenberg.org/ebooks/53123
