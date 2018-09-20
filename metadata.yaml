@@ -1,16 +1,21 @@
 _repo: The-Trouble-with-Truth_53123
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Lutjens
     gutenberg_agent_id: '47216'
     url: http://www.gutenberg.org/2009/agents/47216
+covers:
+- cover_type: archival
+  image_path: 53123-h/images/cover.jpg
 creator:
   author:
     agent_name: Grow, Julian F.
     gutenberg_agent_id: '47227'
     url: http://www.gutenberg.org/2009/agents/47227
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53123#The-Trouble-with-Truth
 gutenberg_issued: '2016-09-22'
 gutenberg_type: Text
 identifiers:
